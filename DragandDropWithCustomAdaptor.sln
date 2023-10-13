@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragandDropWithCustomAdaptor", "DragandDropWithCustomAdaptor.csproj", "{764E1369-313E-446B-BF32-9AAC799A890E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764E1369-313E-446B-BF32-9AAC799A890E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764E1369-313E-446B-BF32-9AAC799A890E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764E1369-313E-446B-BF32-9AAC799A890E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764E1369-313E-446B-BF32-9AAC799A890E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA4B704-1087-43A9-B79D-3DE563DA7D70}
+	EndGlobalSection
+EndGlobal
