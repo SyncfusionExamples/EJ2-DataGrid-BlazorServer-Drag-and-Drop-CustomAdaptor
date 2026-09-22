@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates row drag-and-drop functionality within a Syncfusion Blazor DataGrid using a CustomAdaptor as the data source layer. The implementation is designed to support reordering records inside the same Grid and processing the updated record positions through the adaptor's batch update workflow. When a row is moved, the Grid sends the reordered record information to the CustomAdaptor, enabling the underlying collection to be updated and synchronized with the new order. This sample is useful for applications that require user-controlled row sequencing while maintaining custom server-side or in-memory data processing logic.
+This sample demonstrates row drag-and-drop functionality within a Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) using a CustomAdaptor as the data source layer. The implementation is designed to support reordering records inside the same Grid and processing the updated record positions through the adaptor's batch update workflow. When a row is moved, the Grid sends the reordered record information to the CustomAdaptor, enabling the underlying collection to be updated and synchronized with the new order. This sample is useful for applications that require user-controlled row sequencing while maintaining custom server-side or in-memory data processing logic.
 
 ## Key Features
 
